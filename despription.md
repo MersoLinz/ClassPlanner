@@ -41,3 +41,14 @@ Anstatt Informationen in verschiedenen Chats oder Plattformen zu verstreuen, bü
 Ein Schulprojekt von [Besic, Abdulqader, Adamov]  
 Entwickelt als gemeinsames Projekt für [z. B. Informatikunterricht, HTL, Gymnasium etc.]
 
+---
+
+## Archiv
+
+Automatisches Archiv für ältere Dateien, vergangene Veranstaltungen und abgelaufene Abstimmungen.
+
+Ordnerstruktur zur einfachen Orientierung.
+
+Nur lesbar, um versehentliche Änderungen zu verhindern.
+
+Ideal für die Vorbereitung auf Tests oder Prüfungen – alles bleibt erhalten.
